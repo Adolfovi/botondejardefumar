@@ -1,1 +1,1 @@
-https://rawgit.com/Adolfovi/botondejardefumar/master/index.html
+https://adolfovi.github.io/botondejardefumar
